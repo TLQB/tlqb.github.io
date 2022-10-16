@@ -11,14 +11,14 @@
               <a class="header_btn" onclick="open_collection_list()">
                 <i class="fa btn_icon fa-bars">
                   {% if page.btn_text != false %}
-                  <p class="btn_text">Archives</p>
+                  <p class="btn_text">Categories</p>
                   {% endif %}
                 </i>
               </a>
               {% endif %}
               <!-- home -->
               {% if page.home_btn != false %}
-              <a class="header_btn" href="{{ site.url }}{{ site.baseurl }}">
+              <a class="header_btn" href="{{ site.url }}{{ site.baseurl }}/">
                 <i class="fa btn_icon fa-home">
                   {% if page.btn_text != false %}
                   <p class="btn_text">Home</p>
@@ -36,22 +36,7 @@
                 </i>
               </a>
               {% endif %}
-              <!-- access token -->
-              {% if page.encrypted_text == true %}
-              <a class="header_btn" id="acs_btn" onclick="apply_token()">
-                <i class="fa btn_icon fa-key">
-                  {% if page.btn_text != false %}
-                  <p class="btn_text">Token</p>
-                  {% endif %}
-                </i>
-              </a>
-              <textarea
-                class="access_token"
-                cols="8"
-                id="acs_tkn"
-                rows="1"
-              ></textarea>
-              {% endif %}
+              
             </li>
             <!-- right header -->
             <span class="span_right">
