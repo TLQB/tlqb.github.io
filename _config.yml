@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : tlqb
 owner               : "Research"
-url                : "https://akiritsu.github.io"
+url                : "https://tlqb.github.io"
 baseurl            : "/tlqb"
 permalink           : /:title/
 description         : "test web."

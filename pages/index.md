@@ -52,7 +52,7 @@ for i in range(n):
 
 [Download ZIP files](https://codeload.github.com/akiritsu/pRoJEct-VeXEd/zip/master)
 
-[中文自述及使用教程](https://akiritsu.github.io/pRoJEct-VeXEd/readme-zhcn/)
+[中文自述及使用教程](https://tlqb.github.io/pRoJEct-VeXEd/readme-zhcn/)
 
 ## More Samples
 
