@@ -1,12 +1,12 @@
 # 1. Site Settings
 title               : tlqb
-owner               : "Research"
+owner               : "research"
 url                : "https://tlqb.github.io"
 baseurl            : ""
 permalink           : /:title/
-description         : "test web."
+description         : "note-keeping website template."
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "Custum by tlqb, All Rights Reserved"
 bgtext              : "" # texts randomly displayed in background
 
 # 2. Your Collections
@@ -16,13 +16,6 @@ collection_order    :
   [
     "posts",
     "math",
-    "album",
-    "physics",
-    "biology",
-    "finance",
-    "physics",
-    "my_notes",
-    "portfolio",
   ]
 collections:
   math:   
@@ -59,7 +52,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : tlqb
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
@@ -76,7 +69,7 @@ defaults:
       encrypted_text      : false       # whether use encrytion function by default
       toc                 : true        # whether show table of content by default
       toc_level           : 3           # the toc depth by default
-      author              : "DeerRIDER" # author name by default
+      author              : "tlqb" # author name by default
       show_date           : true        # whether show date message by default
       category            :             # category by default
       post_list           : false       # whether show list of post by default      
@@ -84,13 +77,13 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
-linkedin            : 
-github              : "just-test" 
+email               : "tranlequybaotk12@gmail.com" 
+linkedin            : "tran-le-quy-bao-1201/"
+github              : "TLQB" 
 gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
+website             : "www.tlqb.powake.dev"
 twitter             : "just-test"
-facebook            : "just-test"
+facebook            : "tranlequybaotk/"
 instagram           : 
 youtube             : "just-test"
 steam               : "just-test"
