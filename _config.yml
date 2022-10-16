@@ -2,7 +2,7 @@
 title               : tlqb
 owner               : "Research"
 url                : "https://tlqb.github.io"
-baseurl            : "/tlqb"
+baseurl            : ""
 permalink           : /:title/
 description         : "test web."
 markdown            : kramdown
