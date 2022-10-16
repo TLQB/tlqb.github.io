@@ -2,12 +2,12 @@
 title               : tlqb
 owner               : "Research"
 url                : "https://akiritsu.github.io"
-baseurl            : "/pRoJEct-VeXEd"
+baseurl            : "/tlqb"
 permalink           : /:title/
-description         : "A hacker-style note-keeping website template."
+description         : "test web."
 markdown            : kramdown
 statement           : "Designed by DeerRIDER, All Rights Reserved"
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+bgtext              : "" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
@@ -16,13 +16,13 @@ collection_order    :
   [
     "posts",
     "math",
-    "album",
-    "physics",
-    "biology",
-    "finance",
-    "physics",
-    "my_notes",
-    "portfolio",
+#     "album",
+#     "physics",
+#     "biology",
+#     "finance",
+#     "physics",
+#     "my_notes",
+#     "portfolio",
   ]
 collections:
   math:   
