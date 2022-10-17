@@ -2,7 +2,7 @@
 layout: default
 post_list: false
 toc: false
-comment: true
+comment: false
 home_btn: true
 btn_text: true
 footer: true

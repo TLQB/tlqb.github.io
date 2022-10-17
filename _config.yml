@@ -52,7 +52,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : tlqb
+# disqus_username     : tlqb
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
@@ -68,7 +68,7 @@ defaults:
       maximize            : true        # whether show maximize button by default
       encrypted_text      : false       # whether use encrytion function by default
       toc                 : true        # whether show table of content by default
-      toc_level           : 3           # the toc depth by default
+      toc_level           : 4           # the toc depth by default
       author              : "tlqb" # author name by default
       show_date           : true        # whether show date message by default
       category            :             # category by default
@@ -81,7 +81,7 @@ email               : "tranlequybaotk12@gmail.com"
 linkedin            : "tran-le-quy-bao-1201/"
 github              : "TLQB" 
 gitlab              : 
-website             : "www.tlqb.powake.dev"
+website             : "powake.dev"
 twitter             : "just-test"
 facebook            : "tranlequybaotk/"
 instagram           : 
