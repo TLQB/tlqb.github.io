@@ -13,8 +13,10 @@ permalink: /
 ---
 
 # Learn - Research - Share
-## Features
+## <font color='blue'>Features</font>
 
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox.
+Tất cả các bài viết trên trang sẽ được cập nhật liên tục nhằm đảm bảo sự phù hợp với các thay đổi trong tương lai ...
 
-## Abouts
+## <font color='blue'>Abouts</font>
+
+Xin chào, tôi là Bảo. Tôi tạo blog này vào mùa hè năm 2022, nhưng thực sự bắt đầu với nó vào những ngày đầu mùa xuân 2023. Đây là nơi tôi ghi chép lại quá trình học tập và làm việc với ngôn ngữ Python. 

@@ -6,6 +6,16 @@
           <ul>
             <!-- left header -->
             <li class="li_left">
+              <!-- home -->
+              {% if page.home_btn != false %}
+              <a class="header_btn" href="{{ site.url }}{{ site.baseurl }}/">
+                <i class="fa btn_icon fa-home">
+                  {% if page.btn_text != false %}
+                  <p class="btn_text">Home</p>
+                  {% endif %}
+                </i>
+              </a>
+              {% endif %}              
               <!-- open collection tree -->
               {% if page.collection_list != false %}
               <a class="header_btn" onclick="open_collection_list()">
@@ -16,18 +26,8 @@
                 </i>
               </a>
               {% endif %}
-              <!-- home -->
-              {% if page.home_btn != false %}
-              <a class="header_btn" href="{{ site.url }}{{ site.baseurl }}/">
-                <i class="fa btn_icon fa-home">
-                  {% if page.btn_text != false %}
-                  <p class="btn_text">Home</p>
-                  {% endif %}
-                </i>
-              </a>
-              {% endif %}
               <!-- maximize -->
-              {% if page.maximize != false %}
+<!--               {% if page.maximize != false %}
               <a class="header_btn" id="mxmz_btn" onclick="toggle_maximize()">
                 <i class="fa btn_icon fa-window-maximize">
                   {% if page.btn_text != false %}
@@ -35,7 +35,7 @@
                   {% endif %}
                 </i>
               </a>
-              {% endif %}
+              {% endif %} -->
               
             </li>
             <!-- right header -->
