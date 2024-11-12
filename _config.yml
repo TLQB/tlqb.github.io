@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : tlqb
 owner               : "research"
-url                : "https://tlqb.github.io"
+url                : "https://powake.dev"
 baseurl            : ""
 permalink           : /:title/
 description         : "note-keeping website template."
