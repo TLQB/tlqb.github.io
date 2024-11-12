@@ -2,7 +2,7 @@
 title               : tlqb
 owner               : "research"
 url                : "https://tlqb.github.io"
-baseurl            : ""
+baseurl            : "/tlqb.github.io"
 permalink           : /:title/
 description         : "note-keeping website template."
 markdown            : kramdown
